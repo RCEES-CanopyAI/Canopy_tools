@@ -145,6 +145,7 @@ class TreeCanopyEnhancer:
 #import matplotlib.pyplot as plt
 #import numpy as np
 
+# 已整合至visualize_tools.py，后期去除
 def visualize_enhancement(images, layout, titles):
     """
     可视化增强结果对比
